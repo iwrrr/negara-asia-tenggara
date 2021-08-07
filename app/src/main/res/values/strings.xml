@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NAT</string>
+    <string name="countries_name">Nama Negara</string>
+    <string name="day">Hari Kemerdekaan</string>
+    <string name="history_title">Sejarah</string>
+    <string name="name">Irya Muhammad Riyadhi</string>
+    <string name="email">iryamuhammadr@gmail.com</string>
+    <string name="capital_title">Ibu Kota</string>
+    <string name="share">Share</string>
+    <string name="favorite">Favorite</string>
+    <string name="emblem">Lambang Negara</string>
+</resources>
