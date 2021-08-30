@@ -57,7 +57,7 @@ class RecyclerViewAdapter(private val listCountry: ArrayList<Country>) : Recycle
             .apply(RequestOptions())
             .into(holder.countryEmblem)
 
-        holder.itemView.setOnClickListener { v: View ->
+        holder.itemView.setOnClickListener {
             onItemClickCallback.onItemClicked(listCountry[holder.absoluteAdapterPosition])
         }
 
